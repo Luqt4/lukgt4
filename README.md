@@ -11,7 +11,7 @@
 </p>
 
 <!--About me-->
-<h2>About me</h2>
+## About me
 
 I’m a passionate and tech-savvy IT student. I had my first encounter with a computer as a child at the age of 7, where I played games and surfed the internet. At 12, I participated in a programming masterclass and found my passion. Since then, I’ve been exploring the field. I appreciate how technology provides opportunities and streamlines complex processes.
 
