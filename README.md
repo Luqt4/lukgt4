@@ -7,7 +7,7 @@
 <p align="center">
   <a href="coming soon"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website</a> •
   <a href="https://www.linkedin.com/in/lucas-ten%C3%B3rio-b1976728a/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
-  <a href="lucassouza20804@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
+  <a href="mailto:lucassouza20804@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
 </p>
 
 <!--About me-->
