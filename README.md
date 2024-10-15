@@ -13,9 +13,9 @@
 <!--About me-->
 ## About me
 
-I’m a passionate and tech-savvy IT student. I had my first encounter with a computer as a child at the age of 7, where I played games and surfed the internet. At 12, I participated in a programming masterclass and found my passion. Since then, I’ve been exploring the field. I appreciate how technology provides opportunities and streamlines complex processes.
+I'm an IT student who likes to venture into the tech world, a born Gearhead passionate about sports cars. I had my first encounter with a computer as a child, at 7 years old, where I played games and surfed the internet. At the age of 12, I participated in a programming masterclass and discovered my passion. Since then, I have explored the field. I appreciate how technology offers opportunities and streamlines complex processes.
 
-I hold a technical degree in game programming and currently pursue Analysis and Systems Development. My goal is to become a Full Stack developer, achieve complete proficiency in a programming language (C#, Python, or JavaScript), gain my first professional experience in the field, and become fluent in a foreign language, starting with English and then Spanish.
+I have a technical degree in game programming and am currently studying Systems Analysis and Development. My goal is to become a Full Stack developer, achieve complete proficiency in at least one programming language (C#), gain my first professional experience in the field and become fluent in a foreign language, starting with English and then Spanish.
 
 <br></br>
 
